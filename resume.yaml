@@ -1,0 +1,9 @@
+fontsize: 10.5pt
+geometry: margin=0.3in
+mainfont: Arial
+sansfont: Arial
+monofont: Consolas
+colorlinks: false
+linkcolor: blue
+papersize: letter
+toc: false
