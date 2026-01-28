@@ -21,7 +21,7 @@ Senior Software Engineer specializing in cloud governance, cost optimization, CI
 - Responsible for the CDN’s Customer Portal infrastructure and CI/CD, improving performance and reducing cloud spend.  
 - Automated the migration of the Customer Portal from bare metal to cloud, including infrastructure automation, deployment pipelines, and service hardening.  
 - Lead contributor in Edgecast's API Guild, running API specification reviews and guiding teams toward consistent, developer-friendly API standards.  
-- Earlier DevOps role focused on CI/CD automation, cloud deployments, and modernizing monolithic systems.
+- Earlier DevOps role focused on CI/CD automation, cloud deployments, and modernizing monolithic systems.  
 - Deployed telemetry and monitoring that exposed critical performance bottlenecks, leading refactoring efforts to improving response times.  
 - Previously led a Customer Portal feature team, delivering new CDN configuration products and migrating customers from legacy versions.  
 - Regular sprint development using Agile methodologies.
